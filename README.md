@@ -9,12 +9,7 @@
 <a href=https://www.youtube.com/c/huwutao target=blank><img align=center alt=youtube height=30 src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg width=40></a>
 <a href=https://discord.gg/B7uujb8s99 target=blank><img align=center alt=discord height=30 src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg width=40></a>
 
-### Donation
-<a href=https://www.buymeacoffee.com/hutawd target=blank><img align=left alt=hutawd height=50 src=https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png width=210></a><br/>
-
-<p>
 ### Statistics
-</p>
-<img align=center alt=huwutao src="https://github-readme-stats.vercel.app/api?username=huwutao&show_icons=true&locale=en">
 
-#hUwUtao
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hUwUtao&theme=tokyonight&hide_border=true&show_icons=true)](https://huwutao.me)
+[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=hUwUtao&langs_count=8&theme=tokyonight&hide_border=true&show_icons=true&layout=compact)](https://huwutao.me)
