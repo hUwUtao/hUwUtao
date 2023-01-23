@@ -13,5 +13,5 @@
 
 ### Statistics
 
-[![GitHub stats](https://stattrak.huwutao.me/api?username=hUwUtao&theme=tokyonight&hide_border=true&show_icons=true)](https://huwutao.me)
-[![GitHub stats](https://stattrak.huwutao.me/api/top-langs?username=hUwUtao&langs_count=8&theme=tokyonight&hide_border=true&show_icons=true&layout=compact)](https://huwutao.me)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hUwUtao&theme=tokyonight&hide_border=true&show_icons=true)](https://huwutao.me)
+[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=hUwUtao&theme=tokyonight&hide_border=true&langs_count=8&show_icons=true&layout=compact)](https://huwutao.me)
