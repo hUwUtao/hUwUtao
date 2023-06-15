@@ -1,7 +1,7 @@
 <h1 align=center>Hi 👋, I'm hUwUtao</h1>
 <h3 align=center>Yet nothing to see</h3>
 
-- 📫 ~~Mailbox: **root@huwutao.me** (status: **READONLY**)
+- 📫 ~~Mailbox: **root@huwutao.me** (status: **READONLY**)~~ Really poor can't afford a domain and a mail server now 😅
 - 📫 Mailbox(2nd): huwutao@langdua.net
 - 📫 Mailbox(3rd): ntd05@teamfuho.net
 
