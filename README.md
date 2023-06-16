@@ -12,6 +12,13 @@
 <a href=https://discord.gg/B7uujb8s99 target=blank><img align=center alt=discord height=30 src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg width=40></a>
 
 ### Statistics
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hUwUtao&theme=tokyonight&hide_border=true&show_icons=true&count_private=true)](https://huwutao.me)
-[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?layout=compact&langs_count=8&theme=tokyonight&hide_border=true&count_private=true&username=hUwUtao&show_icons=true)](https://huwutao.me)
+<div align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hUwUtao&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" align="top">
+  <img src="https://github-readme-stats.vercel.app/api?username=hUwUtao&theme=default&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" align="top">
+</picture>
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?layout=donut-vertical&langs_count=10&theme=transparent&hide_border=true&count_private=true&username=hUwUtao&size_weight=0.2&count_weight=0.8">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?layout=donut-vertical&langs_count=10&theme=default&hide_border=true&count_private=true&username=hUwUtao&size_weight=0.2&count_weight=0.8">
+</picture>
+</div>
