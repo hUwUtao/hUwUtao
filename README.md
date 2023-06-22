@@ -1,6 +1,18 @@
 <h1 align=center>Hi 👋, I'm hUwUtao</h1>
 <h3 align=center>Yet nothing to see</h3>
 
+- 🌏 Web developer. Half of the time using Kotlin for Spigot plugins
+- 📐 Also design websites (yes somehow I do)
+- 🖧 Set up and maintain a semi-pro infrastructure.
+
+##### About my setup
+
+- 🖥️ Using Linux for desktop environment, mainly use `ArchLinux` with `Hyprland`, also have a look at [my configuration](https://github.com/hUwUtao/hyprdot)
+- 🤖 ...and using `AlpineLinux` for my toys
+- 👨‍💻 ...while maintaining servers running `Ubuntu`
+
+### Contact
+
 - 📫 ~~Mailbox: **root@huwutao.me** (status: **READONLY**)~~ Really poor can't afford a domain and a mail server now 😅
 - 📫 Mailbox(2nd): huwutao@langdua.net
 - 📫 Mailbox(3rd): ntd05@teamfuho.net
