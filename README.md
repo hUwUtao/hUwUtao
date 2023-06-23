@@ -13,9 +13,10 @@
 
 ### Contact
 
-- 📫 ~~Mailbox: **root@huwutao.me** (status: **READONLY**)~~ Really poor can't afford a domain and a mail server now 😅
-- 📫 Mailbox(2nd): huwutao@langdua.net
-- 📫 Mailbox(3rd): ntd05@teamfuho.net
+- 📫 ~~Mailbox: **root@huwutao.me** (status: **READONLY**)~~
+  > Really poor can't afford a domain and a mail server now 😅
+- 📫 Mailbox(2nd): ntd05@teamfuho.net
+- 📫 Mailbox(3rd): huwutao@langdua.net
 
 ### Connect
 <a href=https://twitter.com/hutawd target=blank><img align=center alt=twitter height=30 src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg width=40></a>
