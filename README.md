@@ -21,8 +21,8 @@
 ### Connect
 <a href=https://twitter.com/hutawd target=blank><img align=center alt=twitter height=30 src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg width=40></a>
 <a href=https://fb.com/huwutao target=blank><img align=center alt=facebook height=30 src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg width=40></a>
-<a href=https://www.youtube.com/c/huwutao target=blank><img align=center alt=youtube height=30 src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg width=40></a>
-<a href=https://discord.gg/B7uujb8s99 target=blank><img align=center alt=discord height=30 src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg width=40></a>
+<a href=https://www.youtube.com/c/stdpi target=blank><img align=center alt=youtube height=30 src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg width=40></a>
+<!--<a href=https://discord.gg/B7uujb8s99 target=blank><img align=center alt=discord height=30 src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg width=40></a>-->
 
 ### Statistics
 <div align="center">
