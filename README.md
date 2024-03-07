@@ -3,7 +3,7 @@
 
 #### About me
 
-🌐 [`stdpi.fr.to`](https://stdpi.fr.to)
+🌐 [`stdpi.work`](https://stdpi.work)
 
 - 🌏 Web developer. Half year cooking cool SaaS in Rust. One quarter of the time doing Kotlin for Spigot/Velocity plugins. Another quarter loves doing serious business with `ElysiaJS` and `React`
 - 📐 Also design websites (yes somehow I do)
