@@ -16,11 +16,13 @@
 - 👨‍💻 ...while maintaining servers running `Ubuntu`
 - 📟 Dreaming an `Unifi` home with `Home Assistant` on `a crap Linux device`
 
-![Metrics](https://raw.githubusercontent.com/hUwUtao/hUwUtao/main/github-metrics.svg)
-
 ### Contact
+- 📫 Email: iam@stdpi.work
+- 📫 Telegram: @stdpi
+<> - 📫 ~~Mailbox: **root@huwutao.me** (status: **READONLY**)~~
+<>  > Really poor can't afford a domain and a mail server now 😅
+<> - 📫 Mailbox(2nd): ntd05@teamfuho.net
+<> - 📫 Mailbox(3rd): huwutao@langdua.net
 
-- 📫 ~~Mailbox: **root@huwutao.me** (status: **READONLY**)~~
-  > Really poor can't afford a domain and a mail server now 😅
-- 📫 Mailbox(2nd): ntd05@teamfuho.net
-- 📫 Mailbox(3rd): huwutao@langdua.net
+
+![Metrics](https://raw.githubusercontent.com/hUwUtao/hUwUtao/main/github-metrics.svg)
