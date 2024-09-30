@@ -25,6 +25,3 @@
 
 
 ![Metrics](https://raw.githubusercontent.com/hUwUtao/hUwUtao/main/github-metrics.svg)
-
-> [!NOTE]
-> I recently had to move out due to a natural incident caused by a sinkhole in a nearby water pump. Luckily, most of the device is fine and relocated to a stable living area. Also RIP jr.Chiffon the kitty and my manga/figurine collection T-T (chiff is still alive but barely finding food inside collapse building). [Related news (Google)](https://www.google.com/search?q=193+or+h%E1%BB%91+t%E1%BB%AD+th%E1%BA%A7n)
