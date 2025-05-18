@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="246.87997711894803" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="246.87997711894803" y="0" width="66.99629682167887" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="313.87627394062685" y="0" width="51.099616765445" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="364.9758907060719" y="0" width="33.941388063333456" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="398.9172787694053" y="0" width="26.15670983389325" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="425.0739886032986" y="0" width="14.074914686198596" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="439.1489032894972" y="0" width="10.735895688236441" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="449.88479897773357" y="0" width="10.115201022266353" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="246.51010946644035" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="246.51010946644035" y="0" width="66.89592512154621" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="313.40603458798654" y="0" width="51.71221818667563" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="365.1182527746622" y="0" width="33.89053816585559" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="399.00879094051777" y="0" width="26.117522691312928" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="425.1263136318307" y="0" width="14.053828101069332" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="439.18014173290004" y="0" width="10.719811514128379" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="449.89995324702846" y="0" width="10.100046752971577" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -285,11 +285,11 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 4 commits)</small>
+                    <small class="h-details">(computed from last 5 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
-                        <li>Mostly pushes code around 22:00</li>
+                        <li>Mostly pushes code around 14:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
                 </div>
@@ -314,7 +314,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 May 2025, 13:14:17 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 May 2025, 19:17:46 (timezone Asia/Ho_Chi_Minh) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
