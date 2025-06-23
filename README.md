@@ -1,5 +1,5 @@
 <h1 align=center>Hi 👋, I'm <del>hUwUtao</del> stdpi</h1>
-<h3 align=center>Yet nothing to see</h3>
+<h3 align=center>Randomly motivated to make something</h3>
 
 #### About me
 
@@ -14,9 +14,9 @@
 
 ##### About my setup
 
-- 🖥️ Using Linux for desktop environment, mainly use `ArchLinux` with ~~`Hyprland`~~ `bspwm`, also have a look at [my old configuration of hyprland](https://github.com/hUwUtao/hyprdot)
-- 🤖 ...and using `AlpineLinux` for my toys. Aiming to have immutable with `nixos` generation deployment
-- 👨‍💻 ...while maintaining servers running `Ubuntu`
+- 🖥️ Using Linux for desktop environment, mainly use `ArchLinux` with ~~`Hyprland`~~ ~~`bspwm`~~ `kde plasma`, also have a look at [my old configuration of hyprland](https://github.com/hUwUtao/hyprdot)
+- 🤖 ...and using ~~`AlpineLinux`~~ `Armbian` for my toys. Aiming to have immutable with `nixos` generation deployment
+- 👨‍💻 ...while maintaining servers running `Debian`
 - 📟 Dreaming an `Unifi` home with `Home Assistant` on `a crap Linux device`
 
 ### Contact
