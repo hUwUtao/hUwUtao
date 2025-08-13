@@ -14,8 +14,8 @@
 
 ##### About my setup
 
-- 🖥️ Using Linux for desktop environment, mainly use `ArchLinux` with ~~`Hyprland`~~ ~~`bspwm`~~ `kde plasma`, also have a look at [my old configuration of hyprland](https://github.com/hUwUtao/hyprdot)
-- 🤖 ...and using ~~`AlpineLinux`~~ `Armbian` for my toys. Aiming to have immutable with `nixos` generation deployment
+- 🖥️ Using Linux for portable laptop environment, mainly use `ArchLinux` with ~~`Hyprland`~~ ~~`bspwm`~~ ~~`kde plasma`~~ `gnome`, also have a look at [my old configuration of hyprland](https://github.com/hUwUtao/hyprdot)
+- 🤖 ...and using ~~`AlpineLinux`~~ `Armbian` for my toys. Aiming to have immutable with ~~`nixos` generation deployment~~ (*woke os*) LFS
 - 👨‍💻 ...while maintaining servers running `Debian`
 - 📟 Dreaming an `Unifi` home with `Home Assistant` on `a crap Linux device`
 
