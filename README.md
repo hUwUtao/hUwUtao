@@ -18,7 +18,7 @@
 - 🤖 ...and using ~~`AlpineLinux`~~ `Armbian` for my toys. Aiming to have immutable with ~~`nixos` generation deployment~~ (*woke os*) LFS/yocto/buildroot
 - 👨‍💻 ...while maintaining servers running `Debian`
 - 📟 Dreaming an `Unifi` home with `Home Assistant` on `a crap Linux device` (2 aplr, 1 u6+ with pi 4b as homelab, no HASS yet)
-- 🐋 Just really like containers and cgroups
+- 🐋 Just really likes containers and cgroups
 
 ### Contact
 - 📫 Email: iam@stdpi.work
