@@ -8,7 +8,7 @@
 - 🌏 Web developer. Half year cooking cool SaaS in Rust. One quarter of the time doing Kotlin for Spigot/Velocity plugins. Another quarter loves doing serious business with `ElysiaJS` and `React`
 - 📐 Also design websites (yes somehow I do)
 - 🖧 Set up and maintain any semi-pro infrastructure.
-- <sub>📚 *Was* a highschooler at [Ta Quang Buu Secondary and Highschool](https://taquangbuu-bk.edu.vn/)</sub>, Uncertain academic status rn :(
+- 📚 Proudly attending Post and Telecommunications Institute of Technology
 
 ##### About my setup
 
